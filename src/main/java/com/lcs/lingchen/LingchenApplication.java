@@ -1,4 +1,4 @@
-package com.lcs.lingchen;
+ package com.lcs.lingchen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
