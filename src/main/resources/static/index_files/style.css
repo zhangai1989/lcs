@@ -106,13 +106,13 @@ input, textarea {
     outline: 0
 }
 
-@font-face {
-    font-family: 'icomoon';
-    src: url('fonts/icomoon.eot?9kcc5g');
-    src: url('fonts/icomoon.eot?9kcc5g#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?9kcc5g') format('truetype'), url('fonts/icomoon.woff?9kcc5g') format('woff'), url('fonts/icomoon.svg?9kcc5g#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal
-}
+/*@font-face {*/
+    /*font-family: 'icomoon';*/
+    /*src: url('fonts/icomoon.eot?9kcc5g');*/
+    /*src: url('fonts/icomoon.eot?9kcc5g#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?9kcc5g') format('truetype'), url('fonts/icomoon.woff?9kcc5g') format('woff'), url('fonts/icomoon.svg?9kcc5g#icomoon') format('svg');*/
+    /*font-weight: normal;*/
+    /*font-style: normal*/
+/*}*/
 
 .wrap {
     width: 1100px;
